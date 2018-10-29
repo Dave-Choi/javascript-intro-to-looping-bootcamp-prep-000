@@ -23,4 +23,4 @@ function doWhileLoop(array){
   return array
 }
 
-console.log(doWhileLoop())
+// console.log(doWhileLoop())
