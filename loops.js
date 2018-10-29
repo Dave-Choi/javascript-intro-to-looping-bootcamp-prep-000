@@ -3,6 +3,8 @@ function forLoop(array){
     let plural = (i === 1) ? "" : "s";
     array.push(`I am ${i} strange loop${plural}.`);
   }
+  
+  return array;
 }
 
 function whileLoop(n){
